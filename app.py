@@ -1,6 +1,6 @@
 import pygame
 from pygame.locals import *
-size = width, height = (800, 800)
+size = width, height = (400, 800)
 road_w = int (width/1.6)
 roadmark_w = int (width/80)
 
